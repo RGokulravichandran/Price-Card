@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Price%20Card/static/css/main.8d41dc2c.css",
+    "main.js": "/Price%20Card/static/js/main.60be8f1b.js",
+    "static/js/787.7e50b4b2.chunk.js": "/Price%20Card/static/js/787.7e50b4b2.chunk.js",
+    "index.html": "/Price%20Card/index.html",
+    "main.8d41dc2c.css.map": "/Price%20Card/static/css/main.8d41dc2c.css.map",
+    "main.60be8f1b.js.map": "/Price%20Card/static/js/main.60be8f1b.js.map",
+    "787.7e50b4b2.chunk.js.map": "/Price%20Card/static/js/787.7e50b4b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d41dc2c.css",
+    "static/js/main.60be8f1b.js"
+  ]
+}
